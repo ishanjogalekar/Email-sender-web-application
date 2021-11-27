@@ -51,7 +51,7 @@
 ### Output Images - 
 
 1. Webapp:
-
-
+<img alt="App" src="https://github.com/ishanjogalekar/Email-sender-web-application/blob/main/Images/Send.JPG" width="400"/>
 
 2. Mail received:
+<img alt="Mail" src="https://github.com/ishanjogalekar/Email-sender-web-application/blob/main/Images/mail.JPG" width="400"/>
