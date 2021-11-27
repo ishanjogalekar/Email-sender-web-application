@@ -20,13 +20,14 @@
 1. Open project in IntelliJ Idea
 2. Give Password of your account in password.txt file.
 3. Setup Server for web app deployment.
-4. Give path of password.txt in EmailUtility class at line no.37
+4. Give path of password.txt in EmailUtility class at line no.37 -> [EmailUtility.java](https://github.com/ishanjogalekar/Email-sender-web-application/blob/main/src/main/java/mail/EmailUtility.java)
 
 ```
  Path fileName = Path.of(" "); 
 ```
 
-5. Also add email at given filed  in EmailUtility class at line no.39
+5. Also add email at given filed  in EmailUtility class at line no.39 -> [EmailUtility.java](https://github.com/ishanjogalekar/Email-sender-web-application/blob/main/src/main/java/mail/EmailUtility.java)
+
 
 ```
  String sender_Email = "";
