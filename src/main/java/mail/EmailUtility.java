@@ -36,7 +36,7 @@ public class EmailUtility
         try {
             Path fileName = Path.of("" ); //password.txt file path file
             String pass = Files.readString(fileName);
-            String sender_Email = ""; // Your mail
+            String sender_Email = ""; // Add your mail account
             String sender_email_pass = pass ;
 
             // Connection to Mail Server
